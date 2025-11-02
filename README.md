@@ -1,6 +1,7 @@
 # MeshPulse
 
 A lightweight Meshtastic packet‑rate monitor for detecting when a radio appears "deaf" (receiving few or no packets).
+<img width="1358" height="521" alt="Screenshot 2025-11-01 at 9 39 38 PM" src="https://github.com/user-attachments/assets/7b8390e2-400e-4885-ae0d-0ebb6d496d4d" />
 
 ## Usage
 
